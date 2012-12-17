@@ -4,6 +4,12 @@ Useful-ObjectiveC
 A repository for useful Objective-C widgets that I create or stumble upon during iOS development.
 
 
+QuadAnimationImageView
+----------------------
+
+This class helps create interesting transitions between two images.  The images get broken up into an array of quads, and you can apply custom animation blocks for the incoming and outgoing quads during the animation.
+
+
 License
 -------
 
